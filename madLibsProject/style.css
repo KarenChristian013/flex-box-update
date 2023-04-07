@@ -4,10 +4,16 @@ h1{
     text-align: center;
 }
 
+ul{
+  list-style-type: none;
+  
+}
+
 p{
     line-height: 25px;
 }
 
 body{
-  background-image: url(https://assets.wallpapersin4k.org/uploads/2017/04/Subtle-Wallpaper-Designs-4.jpg);  
+  background-image: linear-gradient(to right, rgb(231, 168, 179), rgb(228, 145, 145), rgb(130, 130, 235)); 
+   
 }
